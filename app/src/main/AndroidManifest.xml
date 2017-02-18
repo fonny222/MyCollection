@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="christopher_fontana.mycollection">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Work" />
+        <activity android:name=".AtariSystem" />
+        <activity android:name=".GamesAtari" />
+        <activity android:name=".GamesAtariTwo" />
+        <activity android:name=".Genesis" />
+        <activity android:name=".GenesisSystem" />
+        <activity android:name=".GenesisGames" />
+        <activity android:name=".GenesisGames2" />
+        <activity android:name=".Nintendo" />
+        <activity android:name=".NintendoSystem" />
+        <activity android:name=".NintendoGames" />
+        <activity android:name=".NintendoGames2" />
+        <activity android:name=".NintendoGames3" />
+        <activity android:name=".Snes" />
+        <activity android:name=".SnesSystem" />
+        <activity android:name=".SnesGames"></activity>
+    </application>
+
+</manifest>

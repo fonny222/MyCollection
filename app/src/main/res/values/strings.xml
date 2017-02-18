@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Collection</string>
+    <string name="atari">Atari 2600 Image</string>
+    <string name="nintendo">Nintendo Games Image</string>
+    <string name="screenShots">Nintendo Screen Shot Images</string>
+    <string name="title_activity_test">Test</string>
+    <string name="txtTitle">Atari 2600</string>
+    <string name="txtAtariFact1">Release Date: September 11, 1977</string>
+    <string name="txtAtariFact2">Price: $199 ($786.49 in 2016 Dollars)</string>
+    <string name="btnNext">More</string>
+    <string name="imgGames1">Atari 2600 Games 1</string>
+    <string name="imgAtariGames2">Atari 2600 Games 2</string>
+    <string name="genesis">Sega Genesis</string>
+    <string name="txtTitle2">Sega Genesis</string>
+    <string name="txtSegaFact1">Release Date: August 14, 1989</string>
+    <string name="txtSegaFact2">Price: $189 ($365.82 in 2016 Dollars)</string>
+    <string name="imgSegaGames1">Sega Genesis Games 1</string>
+    <string name="imgSegaGames2">Sega Genesis Games 2</string>
+    <string name="Nes">Nintendo Entertainment System</string>
+    <string name="imgNesGames1">Nintendo Games 1</string>
+    <string name="imgNesGames2">Nintendo Games 2</string>
+    <string name="imgNesGames3">Nintendo Games 3</string>
+    <string name="txtTitle3">Nintendo Entertainment System</string>
+    <string name="txtNesFact1">Release Date: October 18, 1985</string>
+    <string name="txtNesFact2">Price: $199 ($443.88 in 2016 Dollars)</string>
+    <string name="txtTitle4">Super Nintendo Entertainment System</string>
+    <string name="Snes">Super Nintendo System</string>
+    <string name="txtSnesFact1">Release Date: August 23, 1991</string>
+    <string name="txtSnesFact2">Price: $199 ($350.67  in 2016 Dollars)</string>
+    <string name="imgSnesGames">SNES Games</string>
+    <string name="txtMainTitle">Please Choose A System To View My Collection</string>
+</resources>
